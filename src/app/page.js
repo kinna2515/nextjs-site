@@ -5,26 +5,16 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">src/app/page.js</code>
+          Welcome to Next.js course
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
+          <p>Women in tech project</p>{'\u00A0'}
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+            href="https://www.youtube.com/@projectwomenintech"
             target="_blank"
             rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
+          ><svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 128 128" width="20px" height="20px"><path fill="#71c2ff" d="M24,117h60c7.2,0,13-5.8,13-13V59c0-1.7-1.3-3-3-3s-3,1.3-3,3v45c0,3.9-3.1,7-7,7H24c-3.9,0-7-3.1-7-7V44	c0-3.9,3.1-7,7-7h45c1.7,0,3-1.3,3-3s-1.3-3-3-3H24c-7.2,0-13,5.8-13,13v60C11,111.2,16.8,117,24,117z"/><path fill="#444b54" d="M114,47c1.7,0,3-1.3,3-3V14c0-1.7-1.3-3-3-3H84c-1.7,0-3,1.3-3,3s1.3,3,3,3h22.8L60.4,63.4	c-1.2,1.2-1.2,3.1,0,4.2c0.6,0.6,1.4,0.9,2.1,0.9s1.5-0.3,2.1-0.9L111,21.2V44C111,45.7,112.3,47,114,47z"/></svg></a>
         </div>
       </div>
 
